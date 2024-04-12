@@ -1,2 +1,6 @@
 Day la week1 trong branch: main
+<<<<<<< HEAD
 Viet tren may
+=======
+viet tren web
+>>>>>>> origin/main
